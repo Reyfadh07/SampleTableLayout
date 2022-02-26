@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sample Table Layout</string>
+    <string name="loginForm">Login Form</string>
+    <string name="tUsername">User Name</string>
+    <string name="login">Login</string>
+    <string name="tLogo">Icon Login</string>
+    <string name="tPassword">Paswword</string>
+</resources>
